@@ -24,7 +24,7 @@
   "sources": {
     "openmaptiles": {
       "type": "vector",
-      "url": "https://100.106.125.124:8080/services/planet"
+      "url": "http://100.106.125.124:8080/services/planet"
     }
   },
   "sprite": "https://openmaptiles.github.io/osm-bright-gl-style/sprite",
